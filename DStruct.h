@@ -9,6 +9,8 @@ struct Jarvis
 {
     int b_id;
     char b_title[50];
+    char b_genre[20];
+    char b_author[20];
     int s_id;
     char s_name[20];
     int record;

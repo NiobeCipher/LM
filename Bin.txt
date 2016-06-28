@@ -1,1 +1,11 @@
 00099	Hi00099	Hi
+00004	4
+00001	1	Computer	2
+00001	1	Programming	1
+00002	2	Computer	2
+00004	4	Others	4
+00003	3	English	3
+00002	2	Computer	2
+00001	1	Programming	1
+00001	1	Programming	1
+00001	1	Programming	1
