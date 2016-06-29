@@ -30,6 +30,16 @@ void printside(char txt[],int i,int j)
     if(i==j){gotoxy(80,y+1);printf("%c",200);for(i=0;i<q*1.5;i++)printf("%c",205);printf("%c",188);}
 }
 
+void cleanside()
+{
+    int i;
+    for(i=5;i<15;i++)
+    {
+        gotoxy(80,i);
+        clreol();
+    }
+}
+
 void printins(char txt[],int j)
 {
     int i;
@@ -47,15 +57,15 @@ void printline()
 
 }
 
-char choice()
+int choice()
 {
-    char ch;
+    int ch;
     gotoxy(1,30);
     printf("Enter your choice:");
     ch=getch();
     return ch;
 }
-
+/*
 void retomenu()
 {
     printins("Press 'm' to return to Menu!",0);
@@ -64,7 +74,7 @@ void retomenu()
         clrscr();
         //mainmenu();
     }
-}
+}*/
 
 void clrctrlscr()
 {

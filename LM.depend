@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1464791499 source:p:\google drive\c programming\lm\main.c
+1467188044 source:p:\google drive\c programming\lm\main.c
 	"PFunc.h"
 
-1467133077 p:\google drive\c programming\lm\pfunc.h
+1467189780 p:\google drive\c programming\lm\pfunc.h
 	"Pich.h"
 	"DFunc.h"
 	"DStruct.h"
@@ -17,9 +17,9 @@
 	<time.h>
 	<dos.h>
 
-1467108094 p:\google drive\c programming\lm\dfunc.h
+1467187862 p:\google drive\c programming\lm\dfunc.h
 	"Pich.h"
 
-1467109550 p:\google drive\c programming\lm\dstruct.h
+1467180975 p:\google drive\c programming\lm\dstruct.h
 	"Pich.h"
 
